@@ -1,5 +1,5 @@
 # Soccer Data Analysis
-Soccer Data Analysis for publishing some data
+Soccer Data Analysis for publishing analysis data directly on Std output
 
 Hello!
 
