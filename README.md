@@ -1,4 +1,4 @@
-# soccerDataAnalysis
+# Soccer Data Analysis
 Soccer Data Analysis for publishing some data
 
 Hello!
